@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Abhishek. I am an Android developer at <a href="https://cuddle.ai/">Cuddle.ai</a> in Mumbai but I also love to work on backend technologies. I will update my portfolio description soon enough.
+### Hi there 👋, I'm Abhishek. I am a Senior Software developer at <a href="https://cruxintelligence.com/">Cruxintelligence.com</a> in Mumbai but I also love to work on backend technologies. I will update my portfolio description soon enough.
 Meanwhile you can 
 <ul>
   <li>💬 Ask me about - Android, Java, Kotlin, Node js, MongoDB, Couchbase </li>
